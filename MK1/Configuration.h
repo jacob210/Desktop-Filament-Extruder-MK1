@@ -142,7 +142,7 @@ debug notes:
 // 21 = Elefu Ra Board (v3)
 
 #ifndef MOTHERBOARD
-#define MOTHERBOARD 34  //FMM only works for this motherboard currently
+#define MOTHERBOARD BOARD_MKS_GEN_L_V21  //FMM only works for this motherboard currently
 #endif
 
 // Define this to set a custom name for your generic Mendel,
